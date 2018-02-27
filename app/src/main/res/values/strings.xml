@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="searchURL">http://www.youtube.com/search?q=</string>
+    <string name="tagPrompt">Tag your query</string>
+    <string name="queryPrompt">Enter Twitter Search query Here</string>
+    <string name="tagSearches">Tagged Searches</string>
+    <string name="edit">edit</string>
+    <string name="cleartag">Clear Tag</string>
+    <string name="save">Save</string>
+    <string name="earse">Erase</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="missingTitle">Missing text</string>
+    <string name="missingMessage">Please enter the query and tag it</string>
+    <string name="confirmTitle">Are you sure ?</string>
+    <string name="confirmMessage">That will delete all saved searched</string>
+
+</resources>
